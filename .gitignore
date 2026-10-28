@@ -16,7 +16,7 @@
 /frontend/.vite/
 
 # IDE and operating system
-/.idea/
-/.vscode/
-/.DS_Store
-/Thumbs.db
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
