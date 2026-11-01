@@ -9,6 +9,7 @@
 /backend/vendor/
 /backend/var/
 /backend/.phpunit.result.cache
+/backend/config/jwt/*.pem
 
 # React / Node
 /frontend/node_modules/
